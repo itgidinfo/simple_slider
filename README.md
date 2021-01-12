@@ -4,6 +4,8 @@
 
 Простой слайдер на javascript. Возможность листания в правую и левую сторону, перемотка.
 ### Посмотреть видеоурок на Youtube
+https://youtu.be/UsLpqTXd5vs
+[![Посмотреть видео](https://github.com/itgidinfo/simple_slider/blob/master/images/cover.png?raw=true)](https://youtu.be/UsLpqTXd5vs)
 
 ### Курсы ItGid.info
 
