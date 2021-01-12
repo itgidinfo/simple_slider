@@ -5,6 +5,7 @@
 
 html, body {
     font-size: 18px;
+    font-family: sans-serif;
 }
 
 .container {
@@ -34,6 +35,18 @@ button:hover {
 button:active {
     background: #000;
     color: #fff;
+}
+
+.courses {
+    margin-top: 40px;
+}
+
+.courses li {
+    margin-bottom: 20px;
+}
+
+.courses a {
+    color: #222;
 }
 
 .slider {
